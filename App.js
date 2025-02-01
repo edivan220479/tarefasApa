@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
   },
   input: {
     borderWidth: 1,
-    borderColor: '#ccc',
+    borderColor: '#196e30',
     padding: 10,
     marginBottom: 10,
     borderRadius: 5,
